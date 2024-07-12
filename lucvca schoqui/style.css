@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(255, 255, 255);
+    font-size: 60px;
+}
+
+p {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white; 
+    font-size: 40px;   
+}
+
+strong {
+    font-size: 40px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    color: darkturquoise  ;
+    background-color: rgb(252, 0, 0);
+}
+
+i {
+    font-size: 40px;
+}

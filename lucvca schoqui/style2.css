@@ -1,0 +1,28 @@
+body {
+    background-color: blue  ;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    text-align: center  ;
+}
+
+
+
+i {
+    text-align: right   ;
+    color: rgb(253, 251, 255);
+    font-size: 40px;
+}
+
+h4 {
+    text-align: right;
+    
+}
